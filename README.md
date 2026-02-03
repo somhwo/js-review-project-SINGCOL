@@ -1,0 +1,1 @@
+This project is an overview of Javascript concepts, from beginner to advanced.  
